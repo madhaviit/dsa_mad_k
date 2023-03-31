@@ -1,0 +1,7 @@
+Online book issue
+Request column for librarian for providing new books
+A separate column for digital library
+Student login page where student can find books issued by him/her and date of return.
+A search column to search availability of books
+A teacher login page where teacher can add any events being organized in the collegeand important suggestions regarding books.
+Online notice board about the workshop.
